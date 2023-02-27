@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Tahoma,wght@1,700&display=swap');
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-items: stretch;
+    text-align: center;
+}
+
+.micro, .micro a, footer
+{
+    font-size: 2px;
+    opacity: 10;
+    color: currentColor;
+}
