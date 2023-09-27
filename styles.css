@@ -61,3 +61,7 @@ footer {
 .work-projects .card__background{
     max-height: 300px;
   }
+
+  .card-big{
+    min-height: 300px;
+}

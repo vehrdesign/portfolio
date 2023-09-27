@@ -1,0 +1,10 @@
+.title{
+    font-size: 4em;
+   font-weight: 700;
+   font-style: oblique;
+}
+
+.project-group{
+    display: flex;
+    flex-direction: row;
+}
